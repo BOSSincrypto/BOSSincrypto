@@ -29,9 +29,10 @@ Since 2020 | 417+ Contributions | #HODL #TWT
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BOSSincrypto&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BOSSincrypto&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSincrypto&layout=compact&theme=dark&title_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOSSincrypto&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BOSSincrypto&theme=github_dark" />
 
 </div>
 
