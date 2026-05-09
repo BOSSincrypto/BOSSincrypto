@@ -1,9 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&width=500&lines=%F0%9F%91%91+BOSSincrypto;Crypto+Investor+%F0%9F%92%B0;Web3+Builder+%F0%9F%94%A5;%22We%27re+trying+to+hack+the+crypto+world%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&width=500&lines=👑+BOSSincrypto;Crypto+Investor+💰;Web3+Builder+🔥;We+are+trying+to+hack+the+crypto+world" alt="Typing SVG" />
 
 </div>
 
+---
+
+```
+boss@crypto:~$ whoami
+Ilya • Crypto Investor • Influencer • Builder
+Since 2020 | 417+ Contributions | #HODL #TWT
+```
 
 ---
 
@@ -22,11 +29,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BOSSincrypto&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=BOSSincrypto&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSincrypto&layout=compact&theme=dark&title_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSincrypto&layout=compact&theme=dark&title_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BOSSincrypto&theme=dark&hide_border=true&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&background=0d1117)
+<img src="https://streak-stats.demolab.com?user=BOSSincrypto&theme=dark&hide_border=true&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
@@ -39,7 +46,7 @@
 [![Website](https://img.shields.io/badge/bossincrypto.com-000000?style=for-the-badge&logo=safari&logoColor=F5C518)](https://bossincrypto.com)
 [![Twitter/X](https://img.shields.io/badge/@BOSSincrypto-000000?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/BOSSincrypto)
 [![Telegram](https://img.shields.io/badge/@BOSSincrypto-000000?style=for-the-badge&logo=telegram&logoColor=F5C518)](https://t.me/BOSSincrypto)
-[![LinkedIn](https://img.shields.io/badge/bossIncrypto-000000?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://linkedin.com/in/bossincrypto)
+[![LinkedIn](https://img.shields.io/badge/bossincrypto-000000?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://linkedin.com/in/bossincrypto)
 
 </div>
 
