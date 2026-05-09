@@ -4,13 +4,6 @@
 
 </div>
 
----
-
-```
-boss@crypto:~$ whoami
-Ilya * Crypto Investor * Influencer * Builder
-Since 2020 | 417+ Contributions | #HODL #TWT
-```
 
 ---
 
