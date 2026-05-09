@@ -4,6 +4,36 @@
 
 </div>
 
+---
+
+## // ABOUT ME
+
+```
+boss@crypto:~$ cat about.txt
+```
+
+> Hi, I'm **Ilya** — aka **BOSSincrypto**.
+> Crypto investor, Web3 builder and influencer since **2020**.
+> I build tools that help people navigate the crypto world smarter.
+> Believer in decentralization, open-source, and the power of community.
+
+| | |
+|---|---|
+| 🌍 **Location** | Switzerland |
+| 💼 **Role** | Crypto Investor · Influencer · Builder |
+| 🔭 **Currently building** | AI agents & Web3 tools |
+| 🌱 **Learning** | DeFi protocols, on-chain analytics |
+| 💬 **Ask me about** | Crypto, Web3, TypeScript, Solidity |
+| ⚡ **Motto** | *"We're trying to hack the crypto world"* |
+| 🪙 **ENS** | bossincrypto.eth |
+
+---
+
+```
+boss@crypto:~$ whoami
+Ilya * Crypto Investor * Influencer * Builder
+Since 2020 | 417+ Contributions | #HODL #TWT
+```
 
 ---
 
