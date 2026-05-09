@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&width=500&lines=👑+BOSSincrypto;Crypto+Investor+💰;Web3+Builder+🔥;We+are+trying+to+hack+the+crypto+world" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&width=500&lines=BOSSincrypto;Crypto+Investor;Web3+Builder;We+are+trying+to+hack+the+crypto+world" alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ```
 boss@crypto:~$ whoami
-Ilya • Crypto Investor • Influencer • Builder
+Ilya * Crypto Investor * Influencer * Builder
 Since 2020 | 417+ Contributions | #HODL #TWT
 ```
 
@@ -29,11 +29,15 @@ Since 2020 | 417+ Contributions | #HODL #TWT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BOSSincrypto&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BOSSincrypto&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSincrypto&layout=compact&theme=dark&title_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSincrypto&layout=compact&theme=dark&title_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=BOSSincrypto&theme=dark&hide_border=true&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BOSSincrypto&theme=dark&hide_border=true&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&background=0d1117" />
 
 </div>
 
