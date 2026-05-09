@@ -12,14 +12,7 @@
 > I build tools that help people navigate the crypto world smarter.
 > Believer in decentralization, open-source, and the power of community.
 
-| | |
 |---|---|
-| 🌍 **Location** | World |
-| 💼 **Role** | Crypto Investor · Influencer · Builder |
-| 🔭 **Currently building** | AI agents & Web3 tools |
-| 🌱 **Learning** | DeFi protocols, on-chain analytics |
-| 💬 **Ask me about** | Crypto, Web3, TypeScript, Solidity |
-| ⚡ **Motto** | *"We're trying to hack the crypto world"* |
 | 🪙 **ENS** | bossincrypto.eth |
 
 ---
