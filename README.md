@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&width=500&lines=👑+BOSSincrypto;Crypto+Investor+💰;Web3+Builder+🔥;%22We're+trying+to+hack+the+crypto+world%22" alt="Typing SVG" />
+<img src="https://bossincrypto.com/avatarka_main.jpg" alt="Typing SVG" />
 
 </div>
 
