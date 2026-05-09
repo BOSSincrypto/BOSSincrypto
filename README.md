@@ -11,7 +11,7 @@
 > Crypto investor, Web3 builder and influencer since **2020**.
 > I build tools that help people navigate the crypto world smarter.
 > Believer in decentralization, open-source, and the power of community.
-
+|||
 |---|---|
 | 🪙 **ENS** | bossincrypto.eth |
 
