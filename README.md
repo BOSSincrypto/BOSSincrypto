@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BOSSincrypto/BOSSincrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&width=500&lines=👑+BOSSincrypto;Crypto+Investor+💰;Web3+Builder+🔥;%22We're+trying+to+hack+the+crypto+world%22" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## // TECH STACK
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=F5C518)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=F5C518)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=F5C518)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F5C518)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=F5C518)
+![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=F5C518)
+
+---
+
+## // GITHUB STATS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BOSSincrypto&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSincrypto&layout=compact&theme=dark&title_color=F5C518&text_color=ffffff&bg_color=0d1117&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BOSSincrypto&theme=dark&hide_border=true&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&background=0d1117)
+
+</div>
+
+---
+
+## // CONNECT
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/bossincrypto.com-000000?style=for-the-badge&logo=safari&logoColor=F5C518)](https://bossincrypto.com)
+[![Twitter/X](https://img.shields.io/badge/@BOSSincrypto-000000?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/BOSSincrypto)
+[![Telegram](https://img.shields.io/badge/@BOSSincrypto-000000?style=for-the-badge&logo=telegram&logoColor=F5C518)](https://t.me/BOSSincrypto)
+[![LinkedIn](https://img.shields.io/badge/bossIncrypto-000000?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://linkedin.com/in/bossincrypto)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=BOSSincrypto&style=for-the-badge&color=F5C518&labelColor=000000" alt="Profile views"/>
+</div>
